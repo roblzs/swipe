@@ -1,6 +1,6 @@
-import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
-import styled from 'styled-components/native';
-import HomePage from './src/pages/HomePage';
+import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
+import styled from "styled-components/native";
+import HomePage from "./src/pages/HomePage";
 
 export default function App() {
   return (

@@ -1,15 +1,15 @@
-import React from "react";
+import React from "react"
 import styled from "styled-components/native";
 
-export default function HomePage() {
+export default function Card() {
   return (
-    <HomePageView>
-        
-    </HomePageView>
+    <StyledCard>
+
+    </StyledCard>
   )
 }
 
-const HomePageView = styled.View`
+const StyledCard = styled.View`
     width: 100%;
     height: 100%;
     display: flex;
